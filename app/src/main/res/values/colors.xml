@@ -31,8 +31,8 @@
     <color name="progressBackgroundColorLight">#33000000</color>
     <color name="progressBackgroundColorDark">#33ffffff</color>
 
-    <!--<color name="colorPrimaryLightDefault">#00BCD4</color>-->
-    <color name="colorPrimaryLightDefault">#03A9F4</color>
+    <color name="colorPrimaryLightDefault">#00BCD4</color>
+    <!--<color name="colorPrimaryLightDefault">#03A9F4</color>-->
     <color name="colorAccentLightDefault">#FF4081</color>
 
     <color name="colorPrimaryDarkDefault">#37474F</color>
