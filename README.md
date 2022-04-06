@@ -3,6 +3,15 @@
 
 [WIP][BETA]-Material Design Music Player
 
+<table>
+
+  <tr>
+    <td><img src="https://imgur.com/a/w9xUojl" width="280" /></td>
+    <td/>    
+</tr>
+ </table>
+
+
 <a href="https://play.google.com/store/apps/details?id=freedom.musicplayer&hl=en"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=50px/></a>
 
 ## Credits
